@@ -9,7 +9,7 @@ Docsify is a lightweight, flexible, and easy-to-set-up documentation generator t
 - Release: 20.04 <br>
 - Codename: focal<br>
 
-## Prerequisites Tools
+## Requirement Tools
  
  - Podman 
 
